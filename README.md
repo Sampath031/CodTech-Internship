@@ -1,13 +1,18 @@
 Name: SAMPATH KUMAR
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT6WDS460
+
 Domain: Web Development
+
 Duration: June to July 2024
+
 Mentor: SANTHOSH KUMAR
 
 # Overview of the Project
 
-# Project: To-Do ListvWeb Application
+# Project: To-Do List Web Application
 ![image](https://github.com/user-attachments/assets/2a4f17a8-3735-48c7-b77c-6afda4f8f08f)
 
 # Objective
