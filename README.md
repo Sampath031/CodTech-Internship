@@ -8,6 +8,8 @@ Mentor: SANTHOSH KUMAR
 # Overview of the Project
 
 # Project: To-Do ListvWeb Application
+![image](https://github.com/user-attachments/assets/2a4f17a8-3735-48c7-b77c-6afda4f8f08f)
+
 # Objective
 To craft a user-friendly to-do list web app with CSS, HTML, and JavaScript! The aim is to allow users to add, edit, and delete tasks, helping them manage their daily activities and improve productivity.
 
